@@ -1,6 +1,6 @@
 <?php
 	
-	// current display images count
+	// current display images count no
 	$counter = $_POST['counter'];
 	
 	// images stored directory
