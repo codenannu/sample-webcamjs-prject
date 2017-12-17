@@ -12,7 +12,7 @@ $fb = new \Facebook\Facebook([
 /*$permissions = []; // optional
 $helper = $fb->getRedirectLoginHelper();
 $accessToken = $helper->getAccessToken();*/
-$accessToken = 'EAACq7wmbyfYBAFKC2XouVgNg1Q2T5glh6khZAQpEF0FOJpNuuPJdpuUKQQFxketxBDrEm8RhlwnVW9MZCSQk2IEJImHp3dUeCu1MAzh7wcjLdURfRopghHaI2iJX1ZClaedSn1pzjiAOrn4ZCGZB43qX9C8CtCsgZD';
+$accessToken = '';
    
 //if (isset($accessToken)) {
 
